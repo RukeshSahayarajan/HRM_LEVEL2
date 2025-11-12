@@ -2,7 +2,7 @@ streamlit==1.28.0
 pdfminer.six==20221105
 docx2txt==0.8
 pymongo==4.6.0
-Pillow==10.1.0
+Pillow
 certifi==2023.11.17
 groq==0.4.2
 python-dotenv==1.0.0
